@@ -1,4 +1,5 @@
-# EDA on Prompt engineering
+# EDA on Prompt engineering dataset
+
 
 n the rapidly evolving landscape of artificial intelligence, Prompt Engineering has emerged as a critical discipline, particularly in the development and optimization of language models such as OpenAI's GPT series. Prompt engineering involves the strategic design and formulation of input prompts to elicit desired outputs from AI models. As these models become increasingly integral to various applications—from customer service chatbots and content generation to data analysis and decision support systems—the effectiveness of prompt engineering directly impacts the quality, relevance, and reliability of AI-generated responses.
 
